@@ -1,0 +1,7 @@
+./schemaTypes
+./schemaTypes/customer.ts
+./schemaTypes/locale.ts
+./schemaTypes/car.ts
+./schemaTypes/inquiry.ts
+./schemaTypes/index.ts
+./schemaTypes/post.ts
