@@ -19,6 +19,17 @@ export default defineType({
       validation: (Rule) => Rule.required(),
     }),
     defineField({
+      name: "seoTitle",
+      title: "SEO Title",
+      type: "string",
+    }),
+    defineField({
+      name: "seoDescription",
+      title: "SEO Description",
+      type: "text",
+      rows: 3,
+    }),
+    defineField({
       name: "content",
       title: "Content",
       type: "array",
