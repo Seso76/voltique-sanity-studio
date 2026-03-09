@@ -6,34 +6,56 @@ export default defineType({
   type: "document",
   fields: [
     defineField({
-      name: "title",
-      title: "Title",
+      name: "pageKey",
+      title: "Page Key",
       type: "string",
+      options: {
+        list: [
+          { title: "Privacy", value: "privacy" },
+          { title: "Terms", value: "terms" },
+          { title: "Cookies", value: "cookies" },
+        ],
+        layout: "radio",
+      },
       validation: (Rule) => Rule.required(),
     }),
     defineField({
-      name: "slug",
-      title: "Slug",
-      type: "slug",
-      options: { source: "title" },
+      name: "title",
+      title: "Title",
+      type: "localeString",
       validation: (Rule) => Rule.required(),
     }),
     defineField({
       name: "seoTitle",
       title: "SEO Title",
-      type: "string",
+      type: "localeString",
     }),
     defineField({
       name: "seoDescription",
       title: "SEO Description",
-      type: "text",
-      rows: 3,
+      type: "localeText",
     }),
     defineField({
-      name: "content",
-      title: "Content",
+      name: "contentEn",
+      title: "Content (EN)",
+      type: "array",
+      of: [{ type: "block" }],
+    }),
+    defineField({
+      name: "contentBg",
+      title: "Content (BG)",
       type: "array",
       of: [{ type: "block" }],
     }),
   ],
+  preview: {
+    select: {
+      title: "pageKey",
+    },
+    prepare(selection) {
+      return {
+        title: selection.title || "Legal Page",
+      };
+    },
+  },
 });
