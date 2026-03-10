@@ -1,15 +1,34 @@
 import {defineField, defineType} from 'sanity'
 
+const portableBlocks = [
+  {
+    type: 'block',
+  },
+  {
+    type: 'image',
+    options: {hotspot: true},
+    fields: [
+      {
+        name: 'alt',
+        title: 'Alt text',
+        type: 'string',
+      },
+    ],
+  },
+  {
+    type: 'guideVisual',
+  },
+]
+
 export default defineType({
   name: 'post',
   title: 'Guide Article',
   type: 'document',
   fields: [
-
     defineField({
       name: 'title',
       title: 'Title',
-      type: 'string',
+      type: 'localeString',
       validation: Rule => Rule.required(),
     }),
 
@@ -18,7 +37,7 @@ export default defineType({
       title: 'Slug',
       type: 'slug',
       options: {
-        source: 'title',
+        source: 'title.en',
         maxLength: 96,
       },
       validation: Rule => Rule.required(),
@@ -72,47 +91,33 @@ export default defineType({
     defineField({
       name: 'excerpt',
       title: 'Excerpt',
-      type: 'text',
-      rows: 3,
+      type: 'localeText',
     }),
 
     defineField({
       name: 'seoTitle',
       title: 'SEO Title',
-      type: 'string',
+      type: 'localeString',
     }),
 
     defineField({
       name: 'seoDescription',
       title: 'SEO Description',
-      type: 'text',
-      rows: 3,
+      type: 'localeText',
     }),
 
     defineField({
-      name: 'body',
-      title: 'Article Content',
+      name: 'bodyEn',
+      title: 'Article Content (EN)',
       type: 'array',
-      of: [
+      of: portableBlocks,
+    }),
 
-        {
-          type: 'block',
-        },
-
-        {
-          type: 'image',
-          options: { hotspot: true },
-          fields: [
-            {
-              name: 'alt',
-              title: 'Alt text',
-              type: 'string',
-            }
-          ]
-        }
-
-      ]
-    })
-
-  ]
+    defineField({
+      name: 'bodyBg',
+      title: 'Article Content (BG)',
+      type: 'array',
+      of: portableBlocks,
+    }),
+  ],
 })
