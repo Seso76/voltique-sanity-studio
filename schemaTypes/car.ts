@@ -5,6 +5,28 @@ export default defineType({
   title: "Car",
   type: "document",
   fields: [
+
+    {
+      name: "teslaWarrantyUsedUntilDate",
+      title: "Tesla Used Vehicle Warranty Until (date)",
+      type: "date",
+    },
+    {
+      name: "teslaWarrantyUsedUntilKm",
+      title: "Tesla Used Vehicle Warranty Until (km)",
+      type: "number",
+    },
+    {
+      name: "teslaWarrantyBatteryUntilDate",
+      title: "Tesla Battery Warranty Until (date)",
+      type: "date",
+    },
+    {
+      name: "teslaWarrantyBatteryUntilKm",
+      title: "Tesla Battery Warranty Until (km)",
+      type: "number",
+    },
+
     defineField({
       name: "title",
       title: "Title",
