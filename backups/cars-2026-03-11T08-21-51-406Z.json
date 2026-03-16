@@ -1,0 +1,125 @@
+[
+  {
+    "_createdAt": "2026-02-20T08:36:10Z",
+    "_id": "9335587e-78bb-44c8-a12e-e0d4267adca9",
+    "_rev": "ei5260eErnt1skHJQImNhC",
+    "_system": {
+      "base": {
+        "id": "9335587e-78bb-44c8-a12e-e0d4267adca9",
+        "rev": "vzGRgubGGF3jzeX9LG12SY"
+      }
+    },
+    "_type": "car",
+    "_updatedAt": "2026-03-11T07:47:08Z",
+    "badge": "Tesla Pre-Owned Certified",
+    "battery": 55,
+    "brand": "Tesla",
+    "certified": true,
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+        "_type": "reference"
+      }
+    },
+    "description": "Certified Pre-Owned from Tesla Germany. 1 previous owner. Full transparency.",
+    "drive": "RWD",
+    "featured": true,
+    "gallery": [
+      {
+        "_key": "ec93eb185167",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "3555108297ae",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d9607600052064761f7f7bc56a7160a618b7cc01-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "a7f60d1e301e",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d8d2cc2a3e35e22a7fc56c58de71dfe55b5845b9-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "b5aac04ae434",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-5f8b1ed813a7919b862023d5755b50456dc95590-4284x5712-jpg",
+          "_type": "reference"
+        }
+      }
+    ],
+    "images": [
+      {
+        "_key": "58c84cf94f4e",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "737f0f92b0ea",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d9607600052064761f7f7bc56a7160a618b7cc01-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "481151fa0ae2",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d8d2cc2a3e35e22a7fc56c58de71dfe55b5845b9-5712x4284-jpg",
+          "_type": "reference"
+        }
+      }
+    ],
+    "mileage": 61000,
+    "model": "Model 3",
+    "price": 26900,
+    "range": 448,
+    "seoDescription": "Tesla Model 3 2021 RWD LFP 61000km • 61000 km • RWD • status: reserved. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Tesla Model 3 2021 RWD LFP 61000km | Tesla Pre-Owned Certified | Voltique",
+    "slug": {
+      "_type": "slug",
+      "current": "model-3-2021-lfp-61000km"
+    },
+    "status": "reserved",
+    "teslaWarrantyBatteryUntilDate": "2029-11-11",
+    "teslaWarrantyBatteryUntilKm": 160000,
+    "teslaWarrantyUsedUntilDate": "2027-02-05",
+    "teslaWarrantyUsedUntilKm": 78990,
+    "title": "Tesla Model 3 2021 RWD LFP 61000km",
+    "titleI18n": {
+      "_type": "localeString",
+      "bg": "Tesla Model 3 RWD LFP 2021 – 61 000 км",
+      "en": "Tesla Model 3 RWD LFP 2021 – 61,000 km"
+    },
+    "vehicle": {
+      "batteryType": "lfp",
+      "driveType": "rwd",
+      "mileageKm": 61000,
+      "model": "3",
+      "rangeWltp": 448,
+      "year": 2021
+    },
+    "warranty": {
+      "basicUntilDate": "2027-02-02",
+      "basicUntilKm": 78000,
+      "batteryUntilDate": "2029-02-02",
+      "batteryUntilKm": 160000
+    },
+    "year": 2021
+  }
+]

@@ -1,45 +1,45 @@
-import {defineField, defineType} from 'sanity'
+import { defineField, defineType } from "sanity"
 
 export default defineType({
-  name: 'homepage',
-  title: 'Homepage',
-  type: 'document',
+  name: "homepage",
+  title: "Homepage",
+  type: "document",
   fields: [
     defineField({
-      name: 'heroTitle',
-      title: 'Hero Title',
-      type: 'localeString',
+      name: "heroTitle",
+      title: "Hero Title",
+      type: "localeString",
     }),
-
     defineField({
-      name: 'heroSubtitle',
-      title: 'Hero Subtitle',
-      type: 'localeText',
+      name: "heroSubtitle",
+      title: "Hero Subtitle",
+      type: "localeText",
     }),
-
     defineField({
-      name: 'heroCTA',
-      title: 'Hero CTA Text',
-      type: 'localeString',
+      name: "heroCTA",
+      title: "Hero CTA",
+      type: "localeString",
     }),
-
     defineField({
-      name: 'trustPoints',
-      title: 'Trust Points',
-      type: 'array',
-      of: [{type: 'localeString'}],
+      name: "featuredCars",
+      title: "Featured Cars",
+      type: "array",
+      of: [
+        {
+          type: "reference",
+          to: [{ type: "car" }],
+        },
+      ],
     }),
-
     defineField({
-      name: 'featuredSectionTitle',
-      title: 'Featured Section Title',
-      type: 'localeString',
+      name: "seoTitle",
+      title: "SEO Title",
+      type: "localeString",
     }),
-
     defineField({
-      name: 'featuredSectionIntro',
-      title: 'Featured Section Intro',
-      type: 'localeText',
+      name: "seoDescription",
+      title: "SEO Description",
+      type: "localeText",
     }),
   ],
 })

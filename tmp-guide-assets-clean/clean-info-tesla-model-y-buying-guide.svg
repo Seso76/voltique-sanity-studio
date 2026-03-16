@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="700" fill="#f8fafc"/>
+    <rect x="40" y="40" width="1120" height="620" rx="34" fill="#ffffff" stroke="#e5e7eb"/>
+    <rect x="80" y="80" width="1040" height="540" rx="28" fill="#f8fafc" stroke="#e5e7eb"/>
+    
+    <rect x="110" y="160" width="410" height="170" rx="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+    
+    <path d="M 256.56 249.36 L 260.24 275.12 L 308.08 275.12 L 313.6 245.68" stroke="#111111" stroke-width="8" fill="none" stroke-linejoin="round"/>
+    <circle cx="267.6" cy="276.96" r="7.36" fill="#111111"/>
+    <circle cx="300.72" cy="276.96" r="7.36" fill="#111111"/>
+    <path d="M 280.48 236.48 L 291.52 249.36 L 311.76 221.76" stroke="#111111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  
+    
+    <rect x="680" y="160" width="410" height="170" rx="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+    
+    <path d="M 826.56 249.36 L 830.24 275.12 L 878.08 275.12 L 883.6 245.68" stroke="#111111" stroke-width="8" fill="none" stroke-linejoin="round"/>
+    <circle cx="837.6" cy="276.96" r="7.36" fill="#111111"/>
+    <circle cx="870.72" cy="276.96" r="7.36" fill="#111111"/>
+    <path d="M 850.48 236.48 L 861.52 249.36 L 881.76 221.76" stroke="#111111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  
+    
+    <rect x="110" y="390" width="410" height="170" rx="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+    
+    <path d="M 256.56 479.36 L 260.24 505.12 L 308.08 505.12 L 313.6 475.68" stroke="#111111" stroke-width="8" fill="none" stroke-linejoin="round"/>
+    <circle cx="267.6" cy="506.96" r="7.36" fill="#111111"/>
+    <circle cx="300.72" cy="506.96" r="7.36" fill="#111111"/>
+    <path d="M 280.48 466.48 L 291.52 479.36 L 311.76 451.76" stroke="#111111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  
+    
+    <rect x="680" y="390" width="410" height="170" rx="24" fill="#f3f4f6" stroke="#e5e7eb"/>
+    
+    <path d="M 826.56 479.36 L 830.24 505.12 L 878.08 505.12 L 883.6 475.68" stroke="#111111" stroke-width="8" fill="none" stroke-linejoin="round"/>
+    <circle cx="837.6" cy="506.96" r="7.36" fill="#111111"/>
+    <circle cx="870.72" cy="506.96" r="7.36" fill="#111111"/>
+    <path d="M 850.48 466.48 L 861.52 479.36 L 881.76 451.76" stroke="#111111" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  
+  </svg>

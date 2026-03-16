@@ -1,0 +1,348 @@
+[
+  {
+    "_createdAt": "2026-02-20T08:36:10Z",
+    "_id": "9335587e-78bb-44c8-a12e-e0d4267adca9",
+    "_rev": "ei5260eErnt1skHJQIg4FT",
+    "_system": {
+      "base": {
+        "id": "9335587e-78bb-44c8-a12e-e0d4267adca9",
+        "rev": "vzGRgubGGF3jzeX9LG12SY"
+      }
+    },
+    "_type": "car",
+    "_updatedAt": "2026-03-11T07:47:08Z",
+    "badge": "Tesla Pre-Owned Certified",
+    "battery": 55,
+    "brand": "Tesla",
+    "certified": true,
+    "coverImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+        "_type": "reference"
+      }
+    },
+    "description": "Certified Pre-Owned from Tesla Germany. 1 previous owner. Full transparency.",
+    "drive": "RWD",
+    "featured": true,
+    "gallery": [
+      {
+        "_key": "ec93eb185167",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "3555108297ae",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d9607600052064761f7f7bc56a7160a618b7cc01-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "a7f60d1e301e",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d8d2cc2a3e35e22a7fc56c58de71dfe55b5845b9-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "b5aac04ae434",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-5f8b1ed813a7919b862023d5755b50456dc95590-4284x5712-jpg",
+          "_type": "reference"
+        }
+      }
+    ],
+    "images": [
+      {
+        "_key": "58c84cf94f4e",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-0ee8d5ae48a14bd4d8677b9e4070cb7ed6a80488-5261x4279-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "737f0f92b0ea",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d9607600052064761f7f7bc56a7160a618b7cc01-5712x4284-jpg",
+          "_type": "reference"
+        }
+      },
+      {
+        "_key": "481151fa0ae2",
+        "_type": "image",
+        "asset": {
+          "_ref": "image-d8d2cc2a3e35e22a7fc56c58de71dfe55b5845b9-5712x4284-jpg",
+          "_type": "reference"
+        }
+      }
+    ],
+    "mileage": 61000,
+    "model": "Model 3",
+    "price": 26900,
+    "range": 448,
+    "seoDescription": "Tesla Model 3 2021 RWD LFP 61000km • 61000 km • RWD • status: reserved. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Tesla Model 3 2021 RWD LFP 61000km | Tesla Pre-Owned Certified | Voltique",
+    "slug": {
+      "_type": "slug",
+      "current": "model-3-2021-lfp-61000km"
+    },
+    "status": "reserved",
+    "teslaWarrantyBatteryUntilDate": "2029-11-11",
+    "teslaWarrantyBatteryUntilKm": 160000,
+    "teslaWarrantyUsedUntilDate": "2027-02-05",
+    "teslaWarrantyUsedUntilKm": 78990,
+    "title": "Tesla Model 3 2021 RWD LFP 61000km",
+    "titleI18n": {
+      "_type": "localeString",
+      "bg": "Tesla Model 3 RWD LFP 2021 – 61 000 км",
+      "en": "Tesla Model 3 RWD LFP 2021 – 61,000 km"
+    },
+    "vehicle": {
+      "batteryType": "lfp",
+      "driveType": "rwd",
+      "mileageKm": 61000,
+      "model": "3",
+      "rangeWltp": 448,
+      "year": 2021
+    },
+    "warranty": {
+      "basicUntilDate": "2027-02-02",
+      "basicUntilKm": 78000,
+      "batteryUntilDate": "2029-02-02",
+      "batteryUntilKm": 160000
+    },
+    "year": 2021
+  },
+  {
+    "_createdAt": "2026-03-04T21:58:24Z",
+    "_id": "0992bee9-0ddf-490d-9e31-af12f425d1f9",
+    "_rev": "vzGRgubGGF3jzeX9LJ6XyG",
+    "_type": "car",
+    "_updatedAt": "2026-03-11T07:45:35Z",
+    "badge": "Tesla Pre-Owned Certified",
+    "battery": 66,
+    "brand": "Tesla",
+    "certified": true,
+    "description": "test description",
+    "drive": "AWD",
+    "featured": false,
+    "mileage": 49000,
+    "model": "Model Y",
+    "price": 33000,
+    "range": 555,
+    "seoDescription": "Test Model Y • 49000 km • AWD • status: available. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Test Model Y 2023 | Tesla Pre-Owned Certified | Voltique",
+    "slug": {
+      "_type": "slug",
+      "current": "test-model-y"
+    },
+    "status": "available",
+    "title": "Test Model Y",
+    "year": 2023
+  },
+  {
+    "_createdAt": "2026-03-04T22:07:48Z",
+    "_id": "02d2bcec-81af-4714-9143-00d29bf4da56",
+    "_rev": "vzGRgubGGF3jzeX9LJ6XP2",
+    "_system": {
+      "base": {
+        "id": "02d2bcec-81af-4714-9143-00d29bf4da56",
+        "rev": "ybgI64RkWpWJOFkfteYLNk"
+      }
+    },
+    "_type": "car",
+    "_updatedAt": "2026-03-11T07:45:34Z",
+    "badge": "Tesla Pre-Owned Certified",
+    "battery": 55,
+    "batteryChemistry": "LFP",
+    "brand": "Tesla",
+    "certified": true,
+    "description": "Test description Model 3",
+    "drive": "RWD",
+    "featured": false,
+    "mileage": 70000,
+    "model": "Model 3",
+    "price": 24000,
+    "range": 400,
+    "seoDescription": "Test Model 3 • 70000 km • RWD • LFP • status: reserved. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Test Model 3 2020 | Tesla Pre-Owned Certified | Voltique",
+    "slug": {
+      "_type": "slug",
+      "current": "test-model-3"
+    },
+    "status": "reserved",
+    "title": "Test Model 3",
+    "year": 2020
+  },
+  {
+    "_createdAt": "2026-03-04T22:07:48Z",
+    "_id": "drafts.02d2bcec-81af-4714-9143-00d29bf4da56",
+    "_rev": "2zNaGNVM3Q3blaWcAXnQ6T",
+    "_system": {
+      "base": {
+        "id": "02d2bcec-81af-4714-9143-00d29bf4da56",
+        "rev": "ei5260eErnt1skHJQAlJG5"
+      }
+    },
+    "_type": "car",
+    "_updatedAt": "2026-03-11T07:36:56Z",
+    "badge": "Tesla Pre-Owned Certified",
+    "battery": 55,
+    "batteryChemistry": "LFP",
+    "brand": "Tesla",
+    "certified": true,
+    "description": "Test description Model 3",
+    "drive": "RWD",
+    "featured": false,
+    "mileage": 70000,
+    "price": 24000,
+    "range": 400,
+    "seoDescription": "Test Model 3 from 2020 available through Voltique with Tesla Pre-Owned Certified positioning, transparent presentation and a curated buying experience.",
+    "seoTitle": "Test Model 3 2020 | Tesla Pre-Owned Certified | Voltique",
+    "slug": {
+      "_type": "slug",
+      "current": "test-model-3"
+    },
+    "status": "reserved",
+    "title": "Test Model 3",
+    "year": 2020
+  },
+  {
+    "_createdAt": "2026-03-11T08:00:30Z",
+    "_id": "2zNaGNVM3Q3blaWcAXpkH1",
+    "_rev": "2zNaGNVM3Q3blaWcAXpkEe",
+    "_type": "car",
+    "_updatedAt": "2026-03-11T08:00:30Z",
+    "accidentInfo": "No known major accidents.",
+    "battery": 60,
+    "batteryChemistry": "LFP",
+    "brand": "Tesla",
+    "colorExterior": "White",
+    "colorInterior": "Black",
+    "conditionSummary": "Very good overall condition.",
+    "description": "Tesla Pre-Owned vehicle with transparent presentation and curated buying experience.",
+    "drive": "RWD",
+    "featured": false,
+    "highlights": [
+      "Low mileage",
+      "LFP battery",
+      "Tesla Pre-Owned Certified positioning"
+    ],
+    "mileage": 42000,
+    "model": "Model 3",
+    "originCountry": "Germany",
+    "ownersCount": 1,
+    "price": 28900,
+    "range": 491,
+    "seoDescription": "Tesla Model 3 2022 RWD 42000km • 42000 km • RWD • LFP • White • status: available. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Tesla Model 3 2022 RWD 42000km | Tesla Pre-Owned Certified | Voltique",
+    "serviceInfo": "Service history available.",
+    "slug": {
+      "_type": "slug",
+      "current": "tesla-model-3-2022-rwd-42000km"
+    },
+    "status": "available",
+    "teslaWarrantyBatteryUntilDate": null,
+    "teslaWarrantyBatteryUntilKm": null,
+    "teslaWarrantyUsedUntilDate": null,
+    "teslaWarrantyUsedUntilKm": null,
+    "title": "Tesla Model 3 2022 RWD 42000km",
+    "variant": "RWD",
+    "year": 2022
+  },
+  {
+    "_createdAt": "2026-03-11T08:00:32Z",
+    "_id": "2zNaGNVM3Q3blaWcAXpkcM",
+    "_rev": "2zNaGNVM3Q3blaWcAXpkZz",
+    "_type": "car",
+    "_updatedAt": "2026-03-11T08:00:32Z",
+    "accidentInfo": "No known accidents.",
+    "battery": 75,
+    "batteryChemistry": "NMC",
+    "brand": "Tesla",
+    "colorExterior": "Midnight Silver",
+    "colorInterior": "Black",
+    "conditionSummary": "Clean condition inside and out.",
+    "description": "Clean Tesla Model Y with balanced specs and clear documentation.",
+    "drive": "AWD",
+    "featured": true,
+    "highlights": [
+      "AWD",
+      "Long Range",
+      "Featured car"
+    ],
+    "mileage": 31000,
+    "model": "Model Y",
+    "originCountry": "Netherlands",
+    "ownersCount": 1,
+    "price": 37900,
+    "range": 533,
+    "seoDescription": "Tesla Model Y 2023 AWD 31000km • 31000 km • AWD • NMC • Midnight Silver • status: available. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Tesla Model Y 2023 AWD 31000km | Tesla Pre-Owned Certified | Voltique",
+    "serviceInfo": "Tesla service records available.",
+    "slug": {
+      "_type": "slug",
+      "current": "tesla-model-y-2023-awd-31000km"
+    },
+    "status": "available",
+    "teslaWarrantyBatteryUntilDate": null,
+    "teslaWarrantyBatteryUntilKm": null,
+    "teslaWarrantyUsedUntilDate": null,
+    "teslaWarrantyUsedUntilKm": null,
+    "title": "Tesla Model Y 2023 AWD 31000km",
+    "variant": "Long Range",
+    "year": 2023
+  },
+  {
+    "_createdAt": "2026-03-11T08:00:33Z",
+    "_id": "vzGRgubGGF3jzeX9LJ7GvV",
+    "_rev": "vzGRgubGGF3jzeX9LJ7Gr6",
+    "_type": "car",
+    "_updatedAt": "2026-03-11T08:00:33Z",
+    "accidentInfo": "Minor cosmetic repair reported.",
+    "battery": 75,
+    "batteryChemistry": "NCA",
+    "brand": "Tesla",
+    "colorExterior": "Red",
+    "colorInterior": "White",
+    "conditionSummary": "Good condition with normal wear.",
+    "description": "Performance-oriented Tesla with strong specs and transparent presentation.",
+    "drive": "AWD",
+    "featured": false,
+    "highlights": [
+      "Performance",
+      "AWD",
+      "White interior"
+    ],
+    "mileage": 58000,
+    "model": "Model 3",
+    "originCountry": "Belgium",
+    "ownersCount": 2,
+    "price": 33900,
+    "range": 547,
+    "seoDescription": "Tesla Model 3 2021 Performance 58000km • 58000 km • AWD • NCA • Red • status: reserved. Available through Voltique with transparent presentation and a curated Tesla buying experience.",
+    "seoTitle": "Tesla Model 3 2021 Performance 58000km | Tesla Pre-Owned Certified | Voltique",
+    "serviceInfo": "Service history partially available.",
+    "slug": {
+      "_type": "slug",
+      "current": "tesla-model-3-2021-performance-58000km"
+    },
+    "status": "reserved",
+    "teslaWarrantyBatteryUntilDate": null,
+    "teslaWarrantyBatteryUntilKm": null,
+    "teslaWarrantyUsedUntilDate": null,
+    "teslaWarrantyUsedUntilKm": null,
+    "title": "Tesla Model 3 2021 Performance 58000km",
+    "variant": "Performance",
+    "year": 2021
+  }
+]

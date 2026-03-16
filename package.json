@@ -9,13 +9,20 @@
     "start": "sanity start",
     "build": "sanity build",
     "deploy": "sanity deploy",
-    "deploy-graphql": "sanity graphql deploy"
+    "deploy-graphql": "sanity graphql deploy",
+    "backup-homepage": "sanity exec scripts/backup-homepage.js --with-user-token",
+    "update-homepage": "sanity exec scripts/update-homepage.js --with-user-token",
+    "backup-cars": "sanity exec scripts/backup-cars.js --with-user-token",
+    "sync-cars": "sanity exec scripts/sync-cars.js --with-user-token",
+    "inspect-cars": "sanity exec scripts/inspect-cars.js --with-user-token"
   },
   "keywords": [
     "sanity"
   ],
   "dependencies": {
-    "@sanity/vision": "^5.13.0",
+    "@sanity/client": "^7.17.0",
+    "@sanity/vision": "^5.16.0",
+    "dotenv": "^17.3.1",
     "react": "^19.1",
     "react-dom": "^19.1",
     "styled-components": "^6.1.18"
@@ -25,7 +32,7 @@
     "@types/react": "^19.1",
     "eslint": "^9.28",
     "prettier": "^3.5",
-    "sanity": "^5.13.0",
+    "sanity": "^5.16.0",
     "typescript": "^5.8"
   },
   "prettier": {

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+    <rect width="900" height="560" fill="#f8fafc"/>
+    <rect x="30" y="30" width="840" height="500" rx="28" fill="#f3f4f6" stroke="#e5e7eb"/>
+    <text x="60" y="90" font-size="14" font-weight="700" fill="#6b7280">CHARGING</text>
+    <text x="60" y="145" font-size="34" font-weight="800" fill="#111827">Supercharger cost overview</text>
+    <text x="60" y="185" font-size="18" font-weight="500" fill="#4b5563">Visual summary of the main factors that influence Tesla Supercharger costs.</text>
+    
+      <rect x="60" y="250" width="360" height="100" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <text x="84" y="288" font-size="18" font-weight="700" fill="#111827">🌍 Country</text>
+      <text x="84" y="322" font-size="28" font-weight="800" fill="#111827">Pricing varies</text>
+      
+      <rect x="480" y="250" width="360" height="100" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <text x="504" y="288" font-size="18" font-weight="700" fill="#111827">🕒 Time</text>
+      <text x="504" y="322" font-size="28" font-weight="800" fill="#111827">May affect rate</text>
+      
+      <rect x="60" y="390" width="360" height="100" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <text x="84" y="428" font-size="18" font-weight="700" fill="#111827">⚡ Speed</text>
+      <text x="84" y="462" font-size="28" font-weight="800" fill="#111827">Influences session</text>
+      
+      <rect x="480" y="390" width="360" height="100" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <text x="504" y="428" font-size="18" font-weight="700" fill="#111827">€ Trip cost</text>
+      <text x="504" y="462" font-size="28" font-weight="800" fill="#111827">Energy driven</text>
+      
+    <text x="60" y="500" font-size="14" font-weight="700" fill="#6b7280">Voltique guide visual</text>
+  </svg>

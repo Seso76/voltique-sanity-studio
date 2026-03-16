@@ -1,0 +1,62 @@
+{
+  "_createdAt": "2026-03-09T20:58:28Z",
+  "_id": "aecb5000-fc79-4173-a935-22da90c1b64f",
+  "_rev": "vzGRgubGGF3jzeX9LJ0Afu",
+  "_system": {
+    "base": {
+      "id": "aecb5000-fc79-4173-a935-22da90c1b64f",
+      "rev": "cQFt4hOoIGbXxTEscomIjS"
+    }
+  },
+  "_type": "homepage",
+  "_updatedAt": "2026-03-11T07:21:11Z",
+  "hero": {
+    "badge": {
+      "bg": "Tesla Pre-Owned Certified",
+      "en": "Tesla Pre-Owned Certified"
+    },
+    "subtitle": {
+      "bg": "Разгледайте внимателно подбрани Tesla Pre-Owned Certified автомобили с ясни спецификации, прозрачна документация и изчистен процес на покупка.",
+      "en": "Browse carefully selected Tesla Pre-Owned Certified vehicles with clear specifications, transparent documentation and a clean buying experience."
+    },
+    "title": {
+      "bg": "Tesla Pre-Owned Certified — подбрани с внимание",
+      "en": "Tesla Pre-Owned Certified — selected with care"
+    }
+  },
+  "heroCTA": {
+    "_type": "localeString",
+    "bg": "Разгледайте наличните Tesla",
+    "en": "Explore available Tesla"
+  },
+  "heroSubtitle": {
+    "_type": "localeText",
+    "bg": "Разгледайте внимателно подбрани Tesla Pre-Owned Certified автомобили с ясни спецификации, прозрачна документация и изчистен процес на покупка.",
+    "en": "Browse carefully selected Tesla Pre-Owned Certified vehicles with clear specifications, transparent documentation and a clean buying experience."
+  },
+  "heroTitle": {
+    "_type": "localeString",
+    "bg": "Tesla Pre-Owned Certified — подбрани с внимание",
+    "en": "Tesla Pre-Owned Certified — selected with care"
+  },
+  "intro": {
+    "_type": "localeText",
+    "bg": "Voltique е бутикова Tesla платформа, фокусирана върху Tesla Pre-Owned Certified автомобили. Вместо прекалено много избор, платформата предлага подбрана селекция с проверени детайли, прозрачно представяне и практическа подкрепа през целия процес на покупка.",
+    "en": "Voltique is a boutique Tesla platform focused on Tesla Pre-Owned Certified vehicles. Instead of overwhelming choice, the platform offers a curated selection with verified details, transparent presentation and practical support throughout the buying journey."
+  },
+  "seoDescription": {
+    "_type": "localeText",
+    "bg": "Voltique представя Tesla Pre-Owned Certified автомобили с прозрачна информация, подбрана селекция и спокоен процес на покупка.",
+    "en": "Voltique presents Tesla Pre-Owned Certified vehicles with transparent information, curated selection and a calm buying experience."
+  },
+  "seoTitle": {
+    "_type": "localeString",
+    "bg": "Voltique — Tesla Pre-Owned Certified | Проверени Tesla автомобили",
+    "en": "Voltique — Tesla Pre-Owned Certified | Verified Tesla Cars"
+  },
+  "title": {
+    "_type": "localeString",
+    "bg": "Voltique — Tesla Pre-Owned Certified",
+    "en": "Voltique — Tesla Pre-Owned Certified"
+  }
+}

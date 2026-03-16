@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="700" fill="#f8fafc"/>
+    <rect x="40" y="40" width="1120" height="620" rx="34" fill="#ffffff" stroke="#e5e7eb"/>
+    <rect x="80" y="90" width="200" height="18" rx="9" fill="#0f172a" opacity="0.10"/>
+    <rect x="80" y="130" width="300" height="14" rx="7" fill="#0f172a" opacity="0.06"/>
+    <rect x="80" y="220" width="470" height="170" rx="24" fill="#eef6ff" stroke="#e5e7eb"/>
+    <rect x="650" y="220" width="470" height="170" rx="24" fill="#eef6ff" stroke="#e5e7eb"/>
+    <rect x="80" y="430" width="470" height="170" rx="24" fill="#eef6ff" stroke="#e5e7eb"/>
+    <rect x="650" y="430" width="470" height="170" rx="24" fill="#eef6ff" stroke="#e5e7eb"/>
+    
+      <rect x="216.2" y="262.2" width="49.50000000000001" height="52.199999999999996" rx="12.600000000000001" fill="none" stroke="#0f172a" stroke-width="8"/>
+      <line x1="228.8" y1="255" x2="228.8" y2="267.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <line x1="252.2" y1="255" x2="252.2" y2="267.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 240.5 314.4 L 240.5 337.8" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 240.5 337.8 C 240.5 346.8, 264.8 346.8, 264.8 334.2" stroke="#0f172a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    
+      <rect x="786.2" y="262.2" width="49.50000000000001" height="52.199999999999996" rx="12.600000000000001" fill="none" stroke="#0f172a" stroke-width="8"/>
+      <line x1="798.8" y1="255" x2="798.8" y2="267.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <line x1="822.2" y1="255" x2="822.2" y2="267.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 810.5 314.4 L 810.5 337.8" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 810.5 337.8 C 810.5 346.8, 834.8 346.8, 834.8 334.2" stroke="#0f172a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    
+      <rect x="216.2" y="472.2" width="49.50000000000001" height="52.199999999999996" rx="12.600000000000001" fill="none" stroke="#0f172a" stroke-width="8"/>
+      <line x1="228.8" y1="465" x2="228.8" y2="477.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <line x1="252.2" y1="465" x2="252.2" y2="477.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 240.5 524.4 L 240.5 547.8" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 240.5 547.8 C 240.5 556.8, 264.8 556.8, 264.8 544.2" stroke="#0f172a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    
+      <rect x="786.2" y="472.2" width="49.50000000000001" height="52.199999999999996" rx="12.600000000000001" fill="none" stroke="#0f172a" stroke-width="8"/>
+      <line x1="798.8" y1="465" x2="798.8" y2="477.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <line x1="822.2" y1="465" x2="822.2" y2="477.6" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 810.5 524.4 L 810.5 547.8" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      <path d="M 810.5 547.8 C 810.5 556.8, 834.8 556.8, 834.8 544.2" stroke="#0f172a" stroke-width="8" fill="none" stroke-linecap="round"/>
+    
+    <rect x="320" y="280" width="160" height="16" rx="8" fill="#0f172a" opacity="0.12"/>
+    <rect x="320" y="318" width="120" height="12" rx="6" fill="#0f172a" opacity="0.08"/>
+    <rect x="890" y="280" width="160" height="16" rx="8" fill="#0f172a" opacity="0.12"/>
+    <rect x="890" y="318" width="120" height="12" rx="6" fill="#0f172a" opacity="0.08"/>
+    <rect x="320" y="490" width="160" height="16" rx="8" fill="#0f172a" opacity="0.12"/>
+    <rect x="320" y="528" width="120" height="12" rx="6" fill="#0f172a" opacity="0.08"/>
+    <rect x="890" y="490" width="160" height="16" rx="8" fill="#0f172a" opacity="0.12"/>
+    <rect x="890" y="528" width="120" height="12" rx="6" fill="#0f172a" opacity="0.08"/>
+  </svg>
