@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F6F5F2"/>
+  <rect x="46" y="46" width="1508" height="808" rx="40" fill="#FCFCFA" stroke="#E8E5DE" stroke-width="2"/>
+  <circle cx="1268" cy="300" r="210" fill="#0F172A" opacity="0.035"/>
+  <circle cx="1345" cy="615" r="118" fill="#0F172A" opacity="0.03"/>
+  <rect x="110" y="120" width="228" height="38" rx="19" fill="#0F172A" opacity="0.08"/>
+  <text x="132" y="145" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.08em" fill="#0F172A">CHARGING</text>
+  <text x="110" y="292" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#111111"><tspan x="110" dy="0">Supercharger</tspan><tspan x="110" dy="74">Costs Europe</tspan></text>
+  <text x="110" y="768" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Voltique</text>
+  <text x="110" y="802" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6B7280">Premium used Tesla editorial guide</text>
+  <g>
+      <path d="M1154 180 L1066 354 H1166 L1118 596 L1274 320 H1176 L1228 180 Z" fill="#0F172A" opacity="0.92"/>
+    </g>
+</svg>
