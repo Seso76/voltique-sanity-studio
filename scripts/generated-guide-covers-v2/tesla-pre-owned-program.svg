@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F6F5F2"/>
+  <rect x="46" y="46" width="1508" height="808" rx="40" fill="#FCFCFA" stroke="#E8E5DE" stroke-width="2"/>
+  <circle cx="1268" cy="300" r="210" fill="#111111" opacity="0.035"/>
+  <circle cx="1345" cy="615" r="118" fill="#111111" opacity="0.03"/>
+  <rect x="110" y="120" width="228" height="38" rx="19" fill="#111111" opacity="0.08"/>
+  <text x="132" y="145" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.08em" fill="#111111">BUYING GUIDE</text>
+  <text x="110" y="292" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#111111"><tspan x="110" dy="0">Tesla Pre-Owned</tspan><tspan x="110" dy="74">Program</tspan></text>
+  <text x="110" y="768" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Voltique</text>
+  <text x="110" y="802" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6B7280">Premium used Tesla editorial guide</text>
+  <g>
+    <path d="M1148 165 L1295 225 V373 C1295 495 1228 581 1148 633 C1068 581 1001 495 1001 373 V225 Z" fill="none" stroke="#111111" stroke-width="10"/>
+    <path d="M1080 386 L1126 432 L1216 322" fill="none" stroke="#111111" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

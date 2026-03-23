@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F6F5F2"/>
+  <rect x="46" y="46" width="1508" height="808" rx="40" fill="#FCFCFA" stroke="#E8E5DE" stroke-width="2"/>
+  <circle cx="1268" cy="300" r="210" fill="#111111" opacity="0.035"/>
+  <circle cx="1345" cy="615" r="118" fill="#111111" opacity="0.03"/>
+  <rect x="110" y="120" width="228" height="38" rx="19" fill="#111111" opacity="0.08"/>
+  <text x="132" y="145" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.08em" fill="#111111">COMPARISON</text>
+  <text x="110" y="292" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" fill="#111111"><tspan x="110" dy="0">Model 3</tspan><tspan x="110" dy="74">vs BMW i4</tspan></text>
+  <text x="110" y="768" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Voltique</text>
+  <text x="110" y="802" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6B7280">Premium used Tesla editorial guide</text>
+  <g>
+      <path d="M870 520 L914 432 H1038 L1096 486 V536 H870 Z" fill="none" stroke="#111111" stroke-width="8" stroke-linejoin="round"/>
+      <circle cx="944" cy="550" r="22" fill="none" stroke="#111111" stroke-width="8"/>
+      <circle cx="1026" cy="550" r="22" fill="none" stroke="#111111" stroke-width="8"/>
+
+      <line x1="1118" y1="492" x2="1152" y2="492" stroke="#111111" stroke-width="8" stroke-linecap="round"/>
+
+      <path d="M1178 520 L1224 438 H1348 L1402 488 V536 H1178 Z" fill="none" stroke="#111111" stroke-width="8" stroke-linejoin="round"/>
+      <circle cx="1252" cy="550" r="22" fill="none" stroke="#111111" stroke-width="8"/>
+      <circle cx="1332" cy="550" r="22" fill="none" stroke="#111111" stroke-width="8"/>
+      <line x1="1238" y1="456" x2="1308" y2="456" stroke="#111111" stroke-width="7" stroke-linecap="round" opacity="0.22"/>
+    </g>
+</svg>

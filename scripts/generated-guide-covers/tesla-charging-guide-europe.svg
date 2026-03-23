@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F7F7F5"/>
+  <rect x="52" y="52" width="1496" height="796" rx="34" fill="#FCFCFB" stroke="#E9E7E2" stroke-width="2"/>
+  <rect x="96" y="110" width="220" height="34" rx="17" fill="#0f172a" opacity="0.08"/>
+  <text x="116" y="132" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.08em" fill="#0f172a">CHARGING</text>
+  <text x="96" y="255" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#111111"><tspan x="96" dy="0">Tesla Charging</tspan><tspan x="96" dy="62">Guide Europe</tspan></text>
+  <text x="96" y="790" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Voltique</text>
+  <text x="96" y="820" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6B7280">Minimal Tesla guide cover</text>
+  <g>
+      <path d="M920 170 L920 270 Q920 330 870 360 L840 378" fill="none" stroke="#0f172a" stroke-width="16" stroke-linecap="round"/>
+      <rect x="945" y="170" width="96" height="130" rx="26" fill="none" stroke="#0f172a" stroke-width="14"/>
+      <line x1="972" y1="130" x2="972" y2="170" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+      <line x1="1014" y1="130" x2="1014" y2="170" stroke="#0f172a" stroke-width="14" stroke-linecap="round"/>
+    </g>
+</svg>

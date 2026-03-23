@@ -1,3 +1,5 @@
+import {media} from "sanity-plugin-media"
+import {media} from "sanity-plugin-media"
 import {defineConfig} from 'sanity'
 import {structureTool} from 'sanity/structure'
 import {visionTool} from '@sanity/vision'
@@ -10,7 +12,8 @@ export default defineConfig({
   projectId: '45q738u1',
   dataset: 'production',
 
-  plugins: [structureTool(), visionTool()],
+  plugins: [
+    media(),structureTool(), visionTool()],
 
   schema: {
     types: schemaTypes,

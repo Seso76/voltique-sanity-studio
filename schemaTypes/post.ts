@@ -18,6 +18,9 @@ const portableBlocks = [
   {
     type: 'guideVisual',
   },
+  {
+    type: 'guideScoreTool',
+  },
 ]
 
 export default defineType({

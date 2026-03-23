@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F7F7F5"/>
+  <rect x="52" y="52" width="1496" height="796" rx="34" fill="#FCFCFB" stroke="#E9E7E2" stroke-width="2"/>
+  <rect x="96" y="110" width="220" height="34" rx="17" fill="#111111" opacity="0.08"/>
+  <text x="116" y="132" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.08em" fill="#111111">TESLA OWNERSHIP</text>
+  <text x="96" y="255" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#111111"><tspan x="96" dy="0">Tesla Ownership</tspan><tspan x="96" dy="62">Costs Europe</tspan></text>
+  <text x="96" y="790" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Voltique</text>
+  <text x="96" y="820" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6B7280">Minimal Tesla guide cover</text>
+  <g>
+      <ellipse cx="930" cy="235" rx="76" ry="24" fill="none" stroke="#111111" stroke-width="12"/>
+      <path d="M854 235 V320 C854 333 888 346 930 346 C972 346 1006 333 1006 320 V235" fill="none" stroke="#111111" stroke-width="12"/>
+      <ellipse cx="1018" cy="280" rx="68" ry="22" fill="none" stroke="#111111" stroke-width="12"/>
+      <path d="M950 280 V350 C950 362 980 374 1018 374 C1056 374 1086 362 1086 350 V280" fill="none" stroke="#111111" stroke-width="12"/>
+    </g>
+</svg>
