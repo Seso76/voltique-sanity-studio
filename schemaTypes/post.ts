@@ -91,6 +91,24 @@ export default defineType({
       ],
     }),
 
+  defineField({
+    name: 'socialImage',
+    title: 'Social Share Image',
+    description:
+      'Used only for Facebook, Open Graph and other social previews.',
+    type: 'image',
+    options: {
+      hotspot: true,
+    },
+    fields: [
+      {
+        name: 'alt',
+        title: 'Alt text',
+        type: 'string',
+      },
+    ],
+  }),
+
     defineField({
       name: 'excerpt',
       title: 'Excerpt',
